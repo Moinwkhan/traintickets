@@ -1,0 +1,178 @@
+[
+  {
+    "passengerName": "John Doe",
+    "trainName": "Express-101",
+    "departureStation": "Delhi",
+    "arrivalStation": "Nagpur",
+    "departureTime": "2024-03-01T08:00:00Z",
+    "arrivalTime": "2024-03-01T12:00:00Z",
+    "seatNumber": "A-12",
+    "price": 50,
+    "bookingDate": "2024-02-15T10:30:00Z"
+  },
+  {
+    "passengerName": "Alice Smith",
+    "trainName": "SuperFast-200",
+    "departureStation": "Station-C",
+    "arrivalStation": "Station-D",
+    "departureTime": "2024-03-02T09:30:00Z",
+    "arrivalTime": "2024-03-02T14:00:00Z",
+    "seatNumber": "B-7",
+    "price": 60,
+    "bookingDate": "2024-02-18T14:45:00Z"
+  },
+  {
+    "passengerName": "Bob Johnson",
+    "trainName": "Express-101",
+    "departureStation": "Delhi",
+    "arrivalStation": "Nagpur",
+    "departureTime": "2024-03-03T10:45:00Z",
+    "arrivalTime": "2024-03-03T15:30:00Z",
+    "seatNumber": "C-21",
+    "price": 50,
+    "bookingDate": "2024-02-20T12:20:00Z"
+  },
+  {
+    "passengerName": "Eva Davis",
+    "trainName": "SuperFast-200",
+    "departureStation": "Station-C",
+    "arrivalStation": "Station-D",
+    "departureTime": "2024-03-04T12:15:00Z",
+    "arrivalTime": "2024-03-04T17:00:00Z",
+    "seatNumber": "D-15",
+    "price": 60,
+    "bookingDate": "2024-02-22T15:10:00Z"
+  },
+  {
+    "passengerName": "Michael Brown",
+    "trainName": "Express-101",
+    "departureStation": "Delhi",
+    "arrivalStation": "Nagpur",
+    "departureTime": "2024-03-05T14:30:00Z",
+    "arrivalTime": "2024-03-05T19:15:00Z",
+    "seatNumber": "E-8",
+    "price": 50,
+    "bookingDate": "2024-02-25T09:40:00Z"
+  },
+  {
+    "passengerName": "Olivia White",
+    "trainName": "SuperFast-200",
+    "departureStation": "Station-C",
+    "arrivalStation": "Station-D",
+    "departureTime": "2024-03-06T16:45:00Z",
+    "arrivalTime": "2024-03-06T21:30:00Z",
+    "seatNumber": "F-14",
+    "price": 60,
+    "bookingDate": "2024-02-28T11:55:00Z"
+  },
+  {
+    "passengerName": "Daniel Smith",
+    "trainName": "Express-101",
+    "departureStation": "Delhi",
+    "arrivalStation": "Nagpur",
+    "departureTime": "2024-03-07T18:00:00Z",
+    "arrivalTime": "2024-03-07T22:45:00Z",
+    "seatNumber": "G-4",
+    "price": 50,
+    "bookingDate": "2024-03-01T14:30:00Z"
+  },
+  {
+    "passengerName": "Sophia Johnson",
+    "trainName": "SuperFast-200",
+    "departureStation": "Station-C",
+    "arrivalStation": "Station-D",
+    "departureTime": "2024-03-08T20:15:00Z",
+    "arrivalTime": "2024-03-08T01:00:00Z",
+    "seatNumber": "H-10",
+    "price": 60,
+    "bookingDate": "2024-03-03T16:40:00Z"
+  },
+  {
+    "passengerName": "Christopher Davis",
+    "trainName": "Express-101",
+    "departureStation": "Delhi",
+    "arrivalStation": "Nagpur",
+    "departureTime": "2024-03-09T22:30:00Z",
+    "arrivalTime": "2024-03-10T03:15:00Z",
+    "seatNumber": "I-19",
+    "price": 50,
+    "bookingDate": "2024-03-05T18:50:00Z"
+  },
+  {
+    "passengerName": "Emma Brown",
+    "trainName": "SuperFast-200",
+    "departureStation": "Station-C",
+    "arrivalStation": "Station-D",
+    "departureTime": "2024-03-11T00:45:00Z",
+    "arrivalTime": "2024-03-11T05:30:00Z",
+    "seatNumber": "J-5",
+    "price": 60,
+    "bookingDate": "2024-03-07T21:10:00Z"
+  },
+  {
+    "passengerName": "William White",
+    "trainName": "Express-101",
+    "departureStation": "Delhi",
+    "arrivalStation": "Nagpur",
+    "departureTime": "2024-03-12T03:00:00Z",
+    "arrivalTime": "2024-03-12T07:45:00Z",
+    "seatNumber": "K-11",
+    "price": 50,
+    "bookingDate": "2024-03-10T09:20:00Z"
+  },
+  {
+    "passengerName": "Ava Smith",
+    "trainName": "SuperFast-200",
+    "departureStation": "Station-C",
+    "arrivalStation": "Station-D",
+    "departureTime": "2024-03-13T05:15:00Z",
+    "arrivalTime": "2024-03-13T10:00:00Z",
+    "seatNumber": "L-16",
+    "price": 60,
+    "bookingDate": "2024-03-12T11:30:00Z"
+  },
+  {
+    "passengerName": "James Johnson",
+    "trainName": "Express-101",
+    "departureStation": "Delhi",
+    "arrivalStation": "Nagpur",
+    "departureTime": "2024-03-14T07:30:00Z",
+    "arrivalTime": "2024-03-13T10:00:00Z",
+    "seatNumber": "L-16",
+    "price": 60,
+    "bookingDate": "2024-03-12T11:30:00Z"
+  },
+  {
+    "passengerName": "John Doe",
+    "trainName": "Express123",
+    "departureStation": "City A",
+    "arrivalStation": "City B",
+    "departureTime": "2024-01-15T08:00:00.000Z",
+    "arrivalTime": "2024-01-15T12:00:00.000Z",
+    "seatNumber": "A12",
+    "price": 50,
+    "bookingDate": "2024-01-10T10:30:00.000Z"
+  },
+  {
+    "passengerName": "Alice Smith",
+    "trainName": "Swift456",
+    "departureStation": "City C",
+    "arrivalStation": "City D",
+    "departureTime": "2024-02-20T14:30:00.000Z",
+    "arrivalTime": "2024-02-20T18:45:00.000Z",
+    "seatNumber": "B05",
+    "price": 70,
+    "bookingDate": "2024-02-15T11:45:00.000Z"
+  },
+  {
+    "passengerName": "Eva Johnson",
+    "trainName": "Rapid789",
+    "departureStation": "City X",
+    "arrivalStation": "City Y",
+    "departureTime": "2024-05-01T09:15:00.000Z",
+    "arrivalTime": "2024-05-01T13:30:00.000Z",
+    "seatNumber": "C18",
+    "price": 65,
+    "bookingDate": "2024-04-25T16:20:00.000Z"
+  }
+]
